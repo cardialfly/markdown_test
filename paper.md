@@ -21,14 +21,14 @@ date: 21 August 2016
 
 # Summary
 
-UnBBayes is a plug-in based open source software framework written in Java for modeling, learning and reasoning upon probabilistic networks. It has both a GUI and an API for inference, sampling, machine learning and evaluation. It supports Bayesian Networks, Influence Diagrams, Multiple-Sectioned Bayesian Networks, Object-Oriented Bayesian Networks, Hybrid Bayesian Networks, Multi-Entity Bayesian Networks and Probabilistic Web Ontology Language, Probabilistic Relational Models, structure, parameter and incremental learning. The project's home page is <[sourceforge.net/projects/unbbayes/](https://sourceforge.net/projects/unbbayes/)>.
+UnBBayes is a plug-in based open source software framework written in Java for modeling, learning and reasoning upon probabilistic networks. It has both a GUI and an API for inference, sampling, machine learning and evaluation. It supports Bayesian Networks, Influence Diagrams, Multiple-Sectioned Bayesian Networks, Object-Oriented Bayesian Networks, Hybrid Bayesian Networks, Multi-Entity Bayesian Networks and Probabilistic Web Ontology Language, Probabilistic Relational Models, structure, parameter and incremental learning. 
 
 ![UnBBayes screenshot](https://a.fsdn.com/con/app/proj/unbbayes/screenshots/231404.jpg)
 
 
 # References
 
-- Ladeira, M. (2002). UnBBayes Web Site. Sourceforge.net. Available at: <https://sourceforge.net/projects/unbbayes/>. Accessed: 21 August 2016.
+- Ladeira, M. (2002). UnBBayes Web Site (SourceForge.net). Available at: <sourceforge.net/projects/unbbayes/>. Accessed: 21 August 2016.
 - Matsumoto, S., Carvalho, R. N., Ladeira, M., Costa, P. C. G., Santos, L. L., Silva, D., Onishi, M., Machado, E. (2011). UnBBayes: a java framework for probabilistic models in AI. Java in Academia and Research.
 - Carvalho, R., Laskey, K., Santos, L., Ladeira, M., Costa, P., & Matsumoto, S. (2010). UnBBayes: modeling uncertainty for plausible reasoning in the semantic web. INTECH Open Access Publisher.
 - Costa, P. C., Ladeira, M., Carvalho, R. N., Laskey, K. B., Santos, L. L., & Matsumoto, S. (2008, May). A first-order Bayesian tool for probabilistic ontologies. In Proceedings of the Twenty-First International Florida Artificial Intelligence Research Society Conference (pp. 631-636).
