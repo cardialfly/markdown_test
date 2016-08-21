@@ -7,9 +7,18 @@ tags:
   - GUI
   - API
 authors:
- - name: Arfon M Smith
-   orcid: 0000-0002-3957-2474
-   affiliation: GitHub Inc.
+- name: Marcelo Ladeira
+  orcid: 
+  affiliation: Universidade de Brasília
+- name: Laecio Santos
+  orcid: 
+  affiliation: Universidade de Brasília
+- name: Rommel Carvalho
+  orcid: 
+  affiliation: George Mason University
+- name: Shou Matsumoto
+  orcid: 
+  affiliation: George Mason University
 date: 21 August 2016
 bibliography: 
 ---
