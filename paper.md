@@ -1,5 +1,5 @@
 ---
-title: 'Fidgit: An ungodly union of GitHub and figshare'
+title: 'UnBBayes'
 tags:
   - example
   - tags
@@ -9,7 +9,7 @@ authors:
    orcid: 0000-0002-3957-2474
    affiliation: GitHub Inc.
 date: 14 February 2016
-bibliography: paper.bib
+bibliography: 
 ---
 
 # Summary
