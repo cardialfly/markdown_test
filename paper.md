@@ -10,13 +10,10 @@ authors:
 - name: Marcelo Ladeira
   affiliation: Universidade de Brasília
 - name: Laecio Santos
-  orcid: 
   affiliation: Universidade de Brasília
 - name: Rommel Carvalho
-  orcid: 
   affiliation: George Mason University
 - name: Shou Matsumoto
-  orcid: 
   affiliation: George Mason University
 date: 21 August 2016
 
