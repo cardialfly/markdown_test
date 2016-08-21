@@ -21,7 +21,7 @@ date: 21 August 2016
 
 # Summary
 
-UnBBayes is a plug-in based open source software framework written in Java for modeling, learning and reasoning upon probabilistic networks. It has both a GUI and an API for inference, sampling, machine learning and evaluation. It supports Bayesian Networks, Influence Diagrams, Multiple-Sectioned Bayesian Networks, Object-Oriented Bayesian Networks, Hybrid Bayesian Networks, Multi-Entity Bayesian Networks and Probabilistic Web Ontology Language, Probabilistic Relational Models, structure, parameter and incremental learning. The project's home page is <[<sourceforge.net/projects/unbbayes/>](https://sourceforge.net/projects/unbbayes/)>.
+UnBBayes is a plug-in based open source software framework written in Java for modeling, learning and reasoning upon probabilistic networks. It has both a GUI and an API for inference, sampling, machine learning and evaluation. It supports Bayesian Networks, Influence Diagrams, Multiple-Sectioned Bayesian Networks, Object-Oriented Bayesian Networks, Hybrid Bayesian Networks, Multi-Entity Bayesian Networks and Probabilistic Web Ontology Language, Probabilistic Relational Models, structure, parameter and incremental learning. The project's home page is <[sourceforge.net/projects/unbbayes/](https://sourceforge.net/projects/unbbayes/)>.
 
 ![UnBBayes screenshot](https://a.fsdn.com/con/app/proj/unbbayes/screenshots/231404.jpg)
 
