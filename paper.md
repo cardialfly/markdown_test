@@ -20,7 +20,7 @@ authors:
   orcid: 
   affiliation: George Mason University
 date: 21 August 2016
-bibliography: 
+
 ---
 
 # Summary
