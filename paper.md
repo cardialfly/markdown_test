@@ -8,7 +8,6 @@ tags:
   - API
 authors:
 - name: Marcelo Ladeira
-  orcid: 
   affiliation: Universidade de Brasília
 - name: Laecio Santos
   orcid: 
