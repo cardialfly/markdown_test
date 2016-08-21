@@ -1,9 +1,11 @@
 ---
 title: 'UnBBayes'
 tags:
-  - example
-  - tags
-  - for the paper
+  - artificial intelligence
+  - probabilistic reasoning
+  - machine learning
+  - GUI
+  - API
 authors:
  - name: Arfon M Smith
    orcid: 0000-0002-3957-2474
