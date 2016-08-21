@@ -11,7 +11,19 @@ authors:
   affiliation: Universidade de Brasília
 - name: Laecio Santos
   affiliation: Universidade de Brasília
+- name: Diego Marques
+  affiliation: Universidade de Brasília
+- name: Guilherme Torres
+  affiliation: Universidade de Brasília
+- name: Danilo Silva
+  affiliation: Universidade de Brasília
+- name: Michael Onishi
+  affiliation: Universidade de Brasília
+- name: Emerson Machado
+  affiliation: Universidade de Brasília
 - name: Rommel Carvalho
+  affiliation: George Mason University
+- name: Paulo Costa
   affiliation: George Mason University
 - name: Shou Matsumoto
   affiliation: George Mason University
@@ -28,7 +40,7 @@ UnBBayes is a plug-in based open source software framework written in Java for m
 
 # References
 
-- Ladeira, M. (2002). UnBBayes Web Site (SourceForge.net). Available at: <[sourceforge.net/projects/unbbayes/](https://sourceforge.net/projects/unbbayes/)>. Accessed: 21 August 2016.
+- Ladeira, M., Carvalho, R., Santos, L., Matsumoto, S. (2002). UnBBayes Web Site (SourceForge.net). Available at: <[sourceforge.net/projects/unbbayes/](https://sourceforge.net/projects/unbbayes/)>. Accessed: 21 August 2016.
 - Matsumoto, S., Carvalho, R. N., Ladeira, M., Costa, P. C. G., Santos, L. L., Silva, D., Onishi, M., Machado, E. (2011). UnBBayes: a java framework for probabilistic models in AI. Java in Academia and Research.
 - Carvalho, R., Laskey, K., Santos, L., Ladeira, M., Costa, P., & Matsumoto, S. (2010). UnBBayes: modeling uncertainty for plausible reasoning in the semantic web. INTECH Open Access Publisher.
 - Costa, P. C., Ladeira, M., Carvalho, R. N., Laskey, K. B., Santos, L. L., & Matsumoto, S. (2008, May). A first-order Bayesian tool for probabilistic ontologies. In Proceedings of the Twenty-First International Florida Artificial Intelligence Research Society Conference (pp. 631-636).
